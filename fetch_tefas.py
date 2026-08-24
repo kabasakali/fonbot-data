@@ -38,24 +38,28 @@ def main():
     bit_str = bitis.strftime("%Y-%m-%d")
 
     def fetch_one(kod):
-        try:
-            df = crawler.fetch(start=bas_str, end=bit_str, name=kod)
-            if df is not None and not df.empty:
-                df = df.sort_values("date")
-                rows = []
-                for _, row in df.iterrows():
-                    rows.append({
-                        "date": str(row["date"])[:10],
-                        "price": float(row["price"])
-                    })
-                return kod, rows
-        except Exception as e:
-            print(f"  HATA {kod}: {e}")
+        import time
+        for i in range(3):
+            try:
+                df = crawler.fetch(start=bas_str, end=bit_str, name=kod)
+                if df is not None and not df.empty:
+                    df = df.sort_values("date")
+                    rows = []
+                    for _, row in df.iterrows():
+                        rows.append({
+                            "date": str(row["date"])[:10],
+                            "price": float(row["price"])
+                        })
+                    return kod, rows
+                return kod, []
+            except Exception as e:
+                time.sleep(1)
+        print(f"  HATA {kod} (3 deneme basarisiz)")
         return kod, None
 
     sonuclar = {}
     basarili = 0
-    with ThreadPoolExecutor(max_workers=20) as ex:
+    with ThreadPoolExecutor(max_workers=10) as ex:
         futures = {ex.submit(fetch_one, k): k for k in kodlar}
         for fut in as_completed(futures, timeout=300):
             kod, rows = fut.result()
