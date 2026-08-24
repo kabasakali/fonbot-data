@@ -32,11 +32,12 @@ jobs:
         run: |
           python fetch_tefas.py
           python fetch_portfoy.py
+          python fetch_valor.py
 
       - name: Degisiklikleri kaydet ve gonder
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add fiyat_cache.json portfoy_cache.json
+          git add fiyat_cache.json portfoy_cache.json valor_cache.json
           git diff --staged --quiet || git commit -m "TEFAS guncelleme: $(date '+%Y-%m-%d %H:%M')"
           git push
