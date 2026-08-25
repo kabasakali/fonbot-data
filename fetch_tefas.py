@@ -59,13 +59,16 @@ def main():
 
     sonuclar = {}
     basarili = 0
-    with ThreadPoolExecutor(max_workers=10) as ex:
+    with ThreadPoolExecutor(max_workers=5) as ex:
         futures = {ex.submit(fetch_one, k): k for k in kodlar}
-        for fut in as_completed(futures, timeout=300):
-            kod, rows = fut.result()
-            if rows:
-                sonuclar[kod] = rows
-                basarili += 1
+        try:
+            for fut in as_completed(futures, timeout=1200):
+                kod, rows = fut.result()
+                if rows:
+                    sonuclar[kod] = rows
+                    basarili += 1
+        except Exception as e:
+            print(f"Timeout veya Hata: {e}")
 
     print(f"Basarili: {basarili}/{len(kodlar)} fon")
 
