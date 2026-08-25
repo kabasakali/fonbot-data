@@ -1,2 +1,4 @@
-﻿tefas-crawler==0.6.0
+tefas-crawler==0.6.0
 pandas
+beautifulsoup4
+requests
