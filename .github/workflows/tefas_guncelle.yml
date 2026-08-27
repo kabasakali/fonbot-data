@@ -2,11 +2,18 @@ name: TEFAS Gunluk Veri Guncelle
 
 on:
   schedule:
-    # Her gun 16:30 UTC = 19:30 Turkiye (Pazartesi-Cuma)
+    # Sabah 06:00 UTC = 09:00 TSİ (Piyasa açılışı & sabah raporu)
+    - cron: '0 6 * * 1-5'
+    # Öğlen 10:00 UTC = 13:00 TSİ (13:30 emir penceresi öncesi)
+    - cron: '0 10 * * 1-5'
+    # Akşam 16:30 UTC = 19:30 TSİ (Gün sonu TEFAS bülteni)
     - cron: '30 16 * * 1-5'
-    # Hafta sonu piyasa kapali, Cuma verisini taze tutmak icin Cumartesi de calistirir
+    # Gece 18:30 UTC = 21:30 TSİ (Geciken fonlar için gece kontrolü)
+    - cron: '30 18 * * 1-5'
+    # Hafta sonu Cumartesi 17:00 UTC = 20:00 TSİ (Hafta sonu taze tutma)
     - cron: '0 17 * * 6'
   workflow_dispatch:
+
     # Manuel tetikleme - GitHub Actions sayfasindan "Run workflow" butonu
 
 jobs:
