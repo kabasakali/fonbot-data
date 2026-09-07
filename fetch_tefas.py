@@ -45,11 +45,26 @@ def main():
                 if df is not None and not df.empty:
                     df = df.sort_values("date")
                     rows = []
+                    atlanan = 0
                     for _, row in df.iterrows():
+                        ham = row["price"]
+                        if ham is None or pd.isna(ham):
+                            atlanan += 1
+                            continue
+                        price = float(ham)
+                        if price <= 0:
+                            # Yeni kurulan fonlar ilk fiyat aciklanana kadar
+                            # TEFAS'ta 0.0 gorunebilir (orn. ZIH, 2026-07).
+                            # Sifir fiyatlar getiri hesaplarini bozar
+                            # (bolme-sifir / sonsuz getiri), bu yuzden atlanir.
+                            atlanan += 1
+                            continue
                         rows.append({
                             "date": str(row["date"])[:10],
-                            "price": float(row["price"])
+                            "price": price
                         })
+                    if atlanan:
+                        print(f"  {kod}: {atlanan} gecersiz fiyat satiri atlandi")
                     return kod, rows
                 return kod, []
             except Exception as e:
