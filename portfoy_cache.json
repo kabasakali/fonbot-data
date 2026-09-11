@@ -1,99 +1,59 @@
 {
   "meta": {
-    "guncelleme_zamani": "2026-09-11T12:10:27.485647",
+    "guncelleme_zamani": "2026-09-11T12:21:48.040313",
     "fon_sayisi": 156
   },
   "veriler": {
-    "YDP": {
-      "fon_adi": "YAPI KREDİ PORTFÖY BİRİNCİ DEĞİŞKEN FON",
+    "YZC": {
+      "fon_adi": "YAPI KREDİ PORTFÖY FİNTECH VE BLOCKCHAİN TEKNOLOJİLERİ DEĞİŞKEN FON",
       "risk_degeri": "",
       "portfoy": {
         "tarih": "2026-09-11",
         "dagilim": {}
       }
     },
-    "DRT": {
-      "fon_adi": "DENİZ PORTFÖY ROBOTİK TEKNOLOJİLERİ DEĞİŞKEN FON",
+    "DTZ": {
+      "fon_adi": "AK PORTFÖY ROBOTİK TEKNOLOJİLER DEĞİŞKEN FON",
       "risk_degeri": "",
       "portfoy": {
         "tarih": "2026-09-11",
         "dagilim": {}
       }
     },
-    "TGA": {
-      "fon_adi": "GARANTİ PORTFÖY AGRESİF DEĞİŞKEN FON",
+    "BVV": {
+      "fon_adi": "BV PORTFÖY TEKNOLOJİ DEĞİŞKEN FON",
       "risk_degeri": "",
       "portfoy": {
         "tarih": "2026-09-11",
         "dagilim": {}
       }
     },
-    "GPG": {
-      "fon_adi": "INVEO PORTFÖY BİRİNCİ DEĞİŞKEN FON",
+    "DHT": {
+      "fon_adi": "DENİZ PORTFÖY HAVACILIK VE SAVUNMA TEKNOLOJİLERİ DEĞİŞKEN FON",
       "risk_degeri": "",
       "portfoy": {
         "tarih": "2026-09-11",
         "dagilim": {}
       }
     },
-    "GZY": {
-      "fon_adi": "GARANTİ PORTFÖY TURİZM VE SEYAHAT SEKTÖRÜ DEĞİŞKEN FON",
+    "KUB": {
+      "fon_adi": "KARE PORTFÖY DEĞİŞKEN  (DÖVİZ) FONU",
       "risk_degeri": "",
       "portfoy": {
         "tarih": "2026-09-11",
         "dagilim": {}
       }
     },
-    "PPZ": {
-      "fon_adi": "AZİMUT PORTFÖY PARA PİYASASI (TL) FONU",
+    "TE4": {
+      "fon_adi": "TEB PORTFÖY BİRİNCİ DEĞİŞKEN FON",
       "risk_degeri": "",
       "portfoy": {
         "tarih": "2026-09-11",
         "dagilim": {}
       }
     },
-    "GPT": {
-      "fon_adi": "AKTİF PORTFÖY ROBOTİK TEKNOLOJİLERİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "TMC": {
-      "fon_adi": "İŞ PORTFÖY TEMA DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "GPI": {
-      "fon_adi": "GARANTİ PORTFÖY İKİNCİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "ZMY": {
-      "fon_adi": "ZİRAAT PORTFÖY METAVERSE VE YENİ TEKNOLOJİLER DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "FID": {
-      "fon_adi": "FİBA PORTFÖY ÇOKLU VARLIK İKİNCİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "IYB": {
-      "fon_adi": "AURA PORTFÖY DEĞİŞKEN FONU",
+    "IED": {
+      "fon_adi": "İŞ PORTFÖY AGRESİF DEĞİŞKEN FON",
       "risk_degeri": "",
       "portfoy": {
         "tarih": "2026-09-11",
@@ -108,8 +68,640 @@
         "dagilim": {}
       }
     },
-    "SOS": {
-      "fon_adi": "HEDEF PORTFÖY SAĞLIK SEKTÖRÜ DEĞİŞKEN FON",
+    "ETN": {
+      "fon_adi": "EMAA BLUE PORTFÖY TEMKİNLİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "TPV": {
+      "fon_adi": "AURA PORTFÖY İKİNCİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "PGD": {
+      "fon_adi": "ASTRA PORTFÖY AGRESİF DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "AN1": {
+      "fon_adi": "STRATEJİ PORTFÖY BİRİNCİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "YIT": {
+      "fon_adi": "GARANTİ PORTFÖY YARI İLETKEN TEKNOLOJİLERİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "RD1": {
+      "fon_adi": "ROTA PORTFÖY BİRİNCİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "YPC": {
+      "fon_adi": "YAPI KREDİ PORTFÖY SÜRDÜRÜLEBİLİRLİK DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "HJB": {
+      "fon_adi": "HEDEF PORTFÖY BİRİNCİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "GAH": {
+      "fon_adi": "GARANTİ PORTFÖY MUTLAK GETİRİ HEDEFLİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "DGF": {
+      "fon_adi": "A1 CAPİTAL PORTFÖY DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "RPC": {
+      "fon_adi": "ROTA PORTFÖY İKLİM DEĞİŞİKLİĞİ ÇÖZÜMLERİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "FID": {
+      "fon_adi": "FİBA PORTFÖY ÇOKLU VARLIK İKİNCİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "RUT": {
+      "fon_adi": "BV PORTFÖY ROBOTİK VE UZAY TEKNOLOJİLERİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "YTV": {
+      "fon_adi": "YAPI KREDİ PORTFÖY TARIM DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "IPB": {
+      "fon_adi": "İSTANBUL PORTFÖY BİRİNCİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "YSU": {
+      "fon_adi": "YAPI KREDİ PORTFÖY ÜÇÜNCÜ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "ICH": {
+      "fon_adi": "PARDUS PORTFÖY İKİNCİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "RPM": {
+      "fon_adi": "ROTA PORTFÖY İLAÇ VE MEDİKAL TEKNOLOJİLERİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "YZT": {
+      "fon_adi": "AK PORTFÖY YAPAY ZEKA TEKNOLOJİLERİ ŞİRKETLERİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "ZMY": {
+      "fon_adi": "ZİRAAT PORTFÖY METAVERSE VE YENİ TEKNOLOJİLER DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "HOA": {
+      "fon_adi": "HSBC PORTFÖY TEKNOLOJİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "DVT": {
+      "fon_adi": "DENİZ PORTFÖY METAVERSE VE DİJİTAL YAŞAM TEKNOLOJİLERİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "DYN": {
+      "fon_adi": "DENİZ PORTFÖY ELEKTRİKLİ VE OTONOM ARAÇ TEKNOLOJİLERİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "OPF": {
+      "fon_adi": "OSMANLI PORTFÖY AGRESİF DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "BHF": {
+      "fon_adi": "PARDUS PORTFÖY BİRİNCİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "YDP": {
+      "fon_adi": "YAPI KREDİ PORTFÖY BİRİNCİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "GMA": {
+      "fon_adi": "AZİMUT PORTFÖY BİRİNCİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "GZY": {
+      "fon_adi": "GARANTİ PORTFÖY TURİZM VE SEYAHAT SEKTÖRÜ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "MTD": {
+      "fon_adi": "BV PORTFÖY MALZEME TEKNOLOJİLERİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "RPD": {
+      "fon_adi": "RE-PIE PORTFÖY BİRİNCİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "SSK": {
+      "fon_adi": "DENİZ PORTFÖY SAĞLIK SEKTÖRÜ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "SUA": {
+      "fon_adi": "ÜNLÜ PORTFÖY BİRİNCİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "TE3": {
+      "fon_adi": "TEB PORTFÖY MUTLAK GETİRİ HEDEFLİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "ACD": {
+      "fon_adi": "İSTANBUL PORTFÖY İKİNCİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "PID": {
+      "fon_adi": "PİRAMİT PORTFÖY DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "RKC": {
+      "fon_adi": "ROTA PORTFÖY İKİNCİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "RTD": {
+      "fon_adi": "RE-PIE PORTFÖY TEKNOLOJİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "GZL": {
+      "fon_adi": "GARANTİ PORTFÖY TARIM VE GIDA SEKTÖRÜ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "SVB": {
+      "fon_adi": "STRATEJİ PORTFÖY AGRESİF DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "TGA": {
+      "fon_adi": "GARANTİ PORTFÖY AGRESİF DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "IJA": {
+      "fon_adi": "INVEO PORTFÖY ATAK DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "TGR": {
+      "fon_adi": "AK PORTFÖY TURİZM VE SEYAHAT SEKTÖRÜ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "NZH": {
+      "fon_adi": "NEO PORTFÖY İKİNCİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "IRT": {
+      "fon_adi": "INVEO PORTFÖY TEKNOLOJİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "RIK": {
+      "fon_adi": "RE-PIE PORTFÖY İKİNCİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "TI4": {
+      "fon_adi": "İŞ PORTFÖY TEMKİNLİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "OKD": {
+      "fon_adi": "OYAK PORTFÖY BİRİNCİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "FLY": {
+      "fon_adi": "AKTİF PORTFÖY HAVACILIK VE SAVUNMA TEKNOLOJİLERİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "DFC": {
+      "fon_adi": "DENİZ PORTFÖY TARIM VE GIDA DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "AED": {
+      "fon_adi": "ATA PORTFÖY BİRİNCİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "MD1": {
+      "fon_adi": "MT PORTFÖY BİRİNCİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "FDG": {
+      "fon_adi": "FONMAP PORTFÖY BİRİNCİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "TMC": {
+      "fon_adi": "İŞ PORTFÖY TEMA DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "GBV": {
+      "fon_adi": "GARANTİ PORTFÖY BLOCKCHAİN TEKNOLOJİLERİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "HVU": {
+      "fon_adi": "ALLBATROSS PORTFÖY BİRİNCİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "OPB": {
+      "fon_adi": "OSMANLI PORTFÖY BİRİNCİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "IYB": {
+      "fon_adi": "AURA PORTFÖY DEĞİŞKEN FONU",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "IJZ": {
+      "fon_adi": "İŞ PORTFÖY SİBER GÜVENLİK TEKNOLOJİLERİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "EIB": {
+      "fon_adi": "ASTRA PORTFÖY DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "TAR": {
+      "fon_adi": "AK PORTFÖY TARIM VE GIDA TEKNOLOJİLERİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "FD1": {
+      "fon_adi": "ONE PORTFÖY BİRİNCİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "GPT": {
+      "fon_adi": "AKTİF PORTFÖY ROBOTİK TEKNOLOJİLERİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "HPO": {
+      "fon_adi": "HSBC PORTFÖY ÇOKLU VARLIK BİRİNCİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "TI3": {
+      "fon_adi": "İŞ PORTFÖY İŞ BANKASI İŞTİRAKLERİ ENDEKSİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "HDD": {
+      "fon_adi": "AHLATCI PORTFÖY BİRİNCİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "ZIH": {
+      "fon_adi": "ZİRAAT PORTFÖY HAVACILIK VE SAVUNMA TEKNOLOJİLERİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "ODG": {
+      "fon_adi": "ONE PORTFÖY İKİNCİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "SD1": {
+      "fon_adi": "SPARTA PORTFÖY BİRİNCİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "NTI": {
+      "fon_adi": "NEO PORTFÖY TEKNOLOJİ VE İNOVASYON DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "ZFB": {
+      "fon_adi": "AK PORTFÖY FİNTEK VE BLOKZİNCİRİ TEKNOLOJİLERİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "ICD": {
+      "fon_adi": "TEB PORTFÖY DÖRDÜNCÜ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "GVA": {
+      "fon_adi": "GARANTİ PORTFÖY ELEKTRİKLİ VE OTONOM ARAÇLAR DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "IEV": {
+      "fon_adi": "İŞ PORTFÖY HAVACILIK VE SAVUNMA TEKNOLOJİLERİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "MAD": {
+      "fon_adi": "MEKSA PORTFÖY BİRİNCİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "KIB": {
+      "fon_adi": "TRIVE PORTFÖY ROBOTİK TEKNOLOJİLERİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "ADE": {
+      "fon_adi": "AK PORTFÖY MUTLAK GETİRİ HEDEFLİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "YLO": {
+      "fon_adi": "YAPI KREDİ PORTFÖY ELEKTRİKLİ ARAÇLAR DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "GZZ": {
+      "fon_adi": "GARANTİ PORTFÖY FİNANSAL TEKNOLOJİLER DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "VCY": {
+      "fon_adi": "AK PORTFÖY ELEKTRİKLİ VE OTONOM ARAÇ TEKNOLOJİLERİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "EGR": {
+      "fon_adi": "EMAA BLUE PORTFÖY AGRESİF DEĞİŞKEN FON",
       "risk_degeri": "",
       "portfoy": {
         "tarih": "2026-09-11",
@@ -124,8 +716,168 @@
         "dagilim": {}
       }
     },
-    "GPB": {
-      "fon_adi": "GARANTİ PORTFÖY BİRİNCİ DEĞİŞKEN FON",
+    "HKG": {
+      "fon_adi": "ZİRAAT PORTFÖY HALK'IN ÜRETEN KADINLARI DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "CPT": {
+      "fon_adi": "ROTA PORTFÖY ÇİP TEKNOLOJİLERİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "SOS": {
+      "fon_adi": "HEDEF PORTFÖY SAĞLIK SEKTÖRÜ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "HPD": {
+      "fon_adi": "HSBC PORTFÖY İKİNCİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "PBR": {
+      "fon_adi": "PUSULA PORTFÖY BİRİNCİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "YJH": {
+      "fon_adi": "YAPI KREDİ PORTFÖY TEMİZ ENERJİ DEĞİŞKEN FONU",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "HIZ": {
+      "fon_adi": "AZİMUT PORTFÖY DİNAMİK DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "MET": {
+      "fon_adi": "GARANTİ PORTFÖY METAVERSE VE YENİ TEKNOLOJİLER DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "EBD": {
+      "fon_adi": "GLOBAL MD PORTFÖY İKİNCİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "BVD": {
+      "fon_adi": "BV PORTFÖY BİRİNCİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "SGT": {
+      "fon_adi": "GARANTİ PORTFÖY SİBER GÜVENLİK TEKNOLOJİLERİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "ICC": {
+      "fon_adi": "TEB PORTFÖY BEŞİNCİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "ZDD": {
+      "fon_adi": "ZİRAAT PORTFÖY TEMKİNLİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "OBP": {
+      "fon_adi": "OYAK PORTFÖY İKİNCİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "BTE": {
+      "fon_adi": "BV PORTFÖY OYUN VE TEKNOLOJİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "IVY": {
+      "fon_adi": "İSTANBUL PORTFÖY BLOCKCHAIN TEKNOLOJİLERİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "EDU": {
+      "fon_adi": "İŞ PORTFÖY TEV EĞİTİME DESTEK DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "YSH": {
+      "fon_adi": "YAPI KREDİ PORTFÖY BÜYÜK ÖLÇEKLİ ŞİRKETLER DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "TI7": {
+      "fon_adi": "İŞ PORTFÖY DENGELİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "NRC": {
+      "fon_adi": "NEO PORTFÖY BİRİNCİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "GPG": {
+      "fon_adi": "INVEO PORTFÖY BİRİNCİ DEĞİŞKEN FON",
       "risk_degeri": "",
       "portfoy": {
         "tarih": "2026-09-11",
@@ -148,136 +900,8 @@
         "dagilim": {}
       }
     },
-    "SD1": {
-      "fon_adi": "SPARTA PORTFÖY BİRİNCİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "YSU": {
-      "fon_adi": "YAPI KREDİ PORTFÖY ÜÇÜNCÜ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "DYN": {
-      "fon_adi": "DENİZ PORTFÖY ELEKTRİKLİ VE OTONOM ARAÇ TEKNOLOJİLERİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "YZH": {
-      "fon_adi": "TEB PORTFÖY BIST BANKA ENDEKSİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN)",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "URA": {
-      "fon_adi": "ATA PORTFÖY ENERJİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "GPU": {
-      "fon_adi": "GARANTİ PORTFÖY ÜÇÜNCÜ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "ODG": {
-      "fon_adi": "ONE PORTFÖY İKİNCİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "GAH": {
-      "fon_adi": "GARANTİ PORTFÖY MUTLAK GETİRİ HEDEFLİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "KRF": {
-      "fon_adi": "KARE PORTFÖY BİRİNCİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "BVD": {
-      "fon_adi": "BV PORTFÖY BİRİNCİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "RPC": {
-      "fon_adi": "ROTA PORTFÖY İKLİM DEĞİŞİKLİĞİ ÇÖZÜMLERİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "HVU": {
-      "fon_adi": "ALLBATROSS PORTFÖY BİRİNCİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "EVM": {
-      "fon_adi": "DENİZ PORTFÖY ENERJİ VE MADENCİLİK SEKTÖRÜ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "DVT": {
-      "fon_adi": "DENİZ PORTFÖY METAVERSE VE DİJİTAL YAŞAM TEKNOLOJİLERİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "ICH": {
-      "fon_adi": "PARDUS PORTFÖY İKİNCİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "ICD": {
-      "fon_adi": "TEB PORTFÖY DÖRDÜNCÜ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "RKC": {
-      "fon_adi": "ROTA PORTFÖY İKİNCİ DEĞİŞKEN FON",
+    "AGC": {
+      "fon_adi": "AK PORTFÖY İKİNCİ DEĞİŞKEN FON",
       "risk_degeri": "",
       "portfoy": {
         "tarih": "2026-09-11",
@@ -292,280 +916,8 @@
         "dagilim": {}
       }
     },
-    "OKD": {
-      "fon_adi": "OYAK PORTFÖY BİRİNCİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "SUB": {
-      "fon_adi": "ÜNLÜ PORTFÖY İKİNCİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "HJB": {
-      "fon_adi": "HEDEF PORTFÖY BİRİNCİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "OPL": {
-      "fon_adi": "OSMANLI PORTFÖY İKİNCİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "OBP": {
-      "fon_adi": "OYAK PORTFÖY İKİNCİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "CKL": {
-      "fon_adi": "YAPI KREDİ PORTFÖY ÇOKLU VARLIK DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "ZIH": {
-      "fon_adi": "ZİRAAT PORTFÖY HAVACILIK VE SAVUNMA TEKNOLOJİLERİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "DGF": {
-      "fon_adi": "A1 CAPİTAL PORTFÖY DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "EBD": {
-      "fon_adi": "GLOBAL MD PORTFÖY İKİNCİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "MD2": {
-      "fon_adi": "MT PORTFÖY İKİNCİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "ATJ": {
-      "fon_adi": "AZİMUT PORTFÖY İKİNCİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "JET": {
-      "fon_adi": "ATA PORTFÖY HAVACILIK VE SAVUNMA TEKNOLOJİLERİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "SHE": {
-      "fon_adi": "TEB PORTFÖY ÖNCE KADIN DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "TI3": {
-      "fon_adi": "İŞ PORTFÖY İŞ BANKASI İŞTİRAKLERİ ENDEKSİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "GZG": {
-      "fon_adi": "GARANTİ PORTFÖY SAĞLIK VE GENETİK TEKNOLOJİLERİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "AN1": {
-      "fon_adi": "STRATEJİ PORTFÖY BİRİNCİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "KOD": {
-      "fon_adi": "YAPI KREDİ PORTFÖY KÜÇÜK ÖLÇEKLİ ŞİRKETLER DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "HPD": {
-      "fon_adi": "HSBC PORTFÖY İKİNCİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "EML": {
-      "fon_adi": "AK PORTFÖY EMLAK SEKTÖRÜ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "TND": {
-      "fon_adi": "İŞ PORTFÖY TTF TENİSE DESTEK DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "SUA": {
-      "fon_adi": "ÜNLÜ PORTFÖY BİRİNCİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "AGC": {
-      "fon_adi": "AK PORTFÖY İKİNCİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "NRC": {
-      "fon_adi": "NEO PORTFÖY BİRİNCİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "OTM": {
-      "fon_adi": "AZİMUT PORTFÖY OTOMOTİV SEKTÖRÜ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "SGK": {
-      "fon_adi": "EMAA BLUE PORTFÖY BİYOTEKNOLOJİ VE SAĞLIK SEKTÖRÜ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "RTG": {
-      "fon_adi": "ATA PORTFÖY ROBOTİK TEKNOLOJİLERİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "ZDD": {
-      "fon_adi": "ZİRAAT PORTFÖY TEMKİNLİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "RTD": {
-      "fon_adi": "RE-PIE PORTFÖY TEKNOLOJİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "MD1": {
-      "fon_adi": "MT PORTFÖY BİRİNCİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "RGD": {
-      "fon_adi": "RE-PIE PORTFÖY AGRESİF DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "TE3": {
-      "fon_adi": "TEB PORTFÖY MUTLAK GETİRİ HEDEFLİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "GVA": {
-      "fon_adi": "GARANTİ PORTFÖY ELEKTRİKLİ VE OTONOM ARAÇLAR DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
     "SPR": {
       "fon_adi": "BV PORTFÖY SPOR ENDÜSTRİSİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "MTD": {
-      "fon_adi": "BV PORTFÖY MALZEME TEKNOLOJİLERİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "YLO": {
-      "fon_adi": "YAPI KREDİ PORTFÖY ELEKTRİKLİ ARAÇLAR DEĞİŞKEN FON",
       "risk_degeri": "",
       "portfoy": {
         "tarih": "2026-09-11",
@@ -580,112 +932,48 @@
         "dagilim": {}
       }
     },
-    "ZDZ": {
-      "fon_adi": "ZİRAAT PORTFÖY AGRESİF DEĞİŞKEN FON",
+    "KRF": {
+      "fon_adi": "KARE PORTFÖY BİRİNCİ DEĞİŞKEN FON",
       "risk_degeri": "",
       "portfoy": {
         "tarih": "2026-09-11",
         "dagilim": {}
       }
     },
-    "IPB": {
-      "fon_adi": "İSTANBUL PORTFÖY BİRİNCİ DEĞİŞKEN FON",
+    "DRT": {
+      "fon_adi": "DENİZ PORTFÖY ROBOTİK TEKNOLOJİLERİ DEĞİŞKEN FON",
       "risk_degeri": "",
       "portfoy": {
         "tarih": "2026-09-11",
         "dagilim": {}
       }
     },
-    "ZFB": {
-      "fon_adi": "AK PORTFÖY FİNTEK VE BLOKZİNCİRİ TEKNOLOJİLERİ DEĞİŞKEN FON",
+    "KIA": {
+      "fon_adi": "TRIVE PORTFÖY MUTLAK GETİRİ HEDEFLİ DEĞİŞKEN FON",
       "risk_degeri": "",
       "portfoy": {
         "tarih": "2026-09-11",
         "dagilim": {}
       }
     },
-    "DTZ": {
-      "fon_adi": "AK PORTFÖY ROBOTİK TEKNOLOJİLER DEĞİŞKEN FON",
+    "SHE": {
+      "fon_adi": "TEB PORTFÖY ÖNCE KADIN DEĞİŞKEN FON",
       "risk_degeri": "",
       "portfoy": {
         "tarih": "2026-09-11",
         "dagilim": {}
       }
     },
-    "GMA": {
-      "fon_adi": "AZİMUT PORTFÖY BİRİNCİ DEĞİŞKEN FON",
+    "MTV": {
+      "fon_adi": "AK PORTFÖY METAVERSE VE DİJİTAL YAŞAM TEKNOLOJİLERİ DEĞİŞKEN FON",
       "risk_degeri": "",
       "portfoy": {
         "tarih": "2026-09-11",
         "dagilim": {}
       }
     },
-    "TI4": {
-      "fon_adi": "İŞ PORTFÖY TEMKİNLİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "HIZ": {
-      "fon_adi": "AZİMUT PORTFÖY DİNAMİK DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "PID": {
-      "fon_adi": "PİRAMİT PORTFÖY DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "YIT": {
-      "fon_adi": "GARANTİ PORTFÖY YARI İLETKEN TEKNOLOJİLERİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "BTE": {
-      "fon_adi": "BV PORTFÖY OYUN VE TEKNOLOJİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "SVB": {
-      "fon_adi": "STRATEJİ PORTFÖY AGRESİF DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "YJH": {
-      "fon_adi": "YAPI KREDİ PORTFÖY TEMİZ ENERJİ DEĞİŞKEN FONU",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "YZC": {
-      "fon_adi": "YAPI KREDİ PORTFÖY FİNTECH VE BLOCKCHAİN TEKNOLOJİLERİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "RPD": {
-      "fon_adi": "RE-PIE PORTFÖY BİRİNCİ DEĞİŞKEN FON",
+    "ECA": {
+      "fon_adi": "GLOBAL MD PORTFÖY BİRİNCİ DEĞİŞKEN FON",
       "risk_degeri": "",
       "portfoy": {
         "tarih": "2026-09-11",
@@ -700,8 +988,80 @@
         "dagilim": {}
       }
     },
-    "FLY": {
-      "fon_adi": "AKTİF PORTFÖY HAVACILIK VE SAVUNMA TEKNOLOJİLERİ DEĞİŞKEN FON",
+    "SGK": {
+      "fon_adi": "EMAA BLUE PORTFÖY BİYOTEKNOLOJİ VE SAĞLIK SEKTÖRÜ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "YLC": {
+      "fon_adi": "ATA PORTFÖY TARIM VE GIDA DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "IAE": {
+      "fon_adi": "İSTANBUL PORTFÖY AGRESİF DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "GZG": {
+      "fon_adi": "GARANTİ PORTFÖY SAĞLIK VE GENETİK TEKNOLOJİLERİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "DTM": {
+      "fon_adi": "DENİZ PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "ZDZ": {
+      "fon_adi": "ZİRAAT PORTFÖY AGRESİF DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "SUB": {
+      "fon_adi": "ÜNLÜ PORTFÖY İKİNCİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "URA": {
+      "fon_adi": "ATA PORTFÖY ENERJİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "NKP": {
+      "fon_adi": "NEO PORTFÖY KAR PAYI ÖDEYEN DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "RTG": {
+      "fon_adi": "ATA PORTFÖY ROBOTİK TEKNOLOJİLERİ DEĞİŞKEN FON",
       "risk_degeri": "",
       "portfoy": {
         "tarih": "2026-09-11",
@@ -716,48 +1076,128 @@
         "dagilim": {}
       }
     },
-    "VCY": {
-      "fon_adi": "AK PORTFÖY ELEKTRİKLİ VE OTONOM ARAÇ TEKNOLOJİLERİ DEĞİŞKEN FON",
+    "IJC": {
+      "fon_adi": "İŞ PORTFÖY YARI İLETKEN TEKNOLOJİLERİ DEĞİŞKEN FON",
       "risk_degeri": "",
       "portfoy": {
         "tarih": "2026-09-11",
         "dagilim": {}
       }
     },
-    "ETN": {
-      "fon_adi": "EMAA BLUE PORTFÖY TEMKİNLİ DEĞİŞKEN FON",
+    "RGD": {
+      "fon_adi": "RE-PIE PORTFÖY AGRESİF DEĞİŞKEN FON",
       "risk_degeri": "",
       "portfoy": {
         "tarih": "2026-09-11",
         "dagilim": {}
       }
     },
-    "IRT": {
-      "fon_adi": "INVEO PORTFÖY TEKNOLOJİ DEĞİŞKEN FON",
+    "CKL": {
+      "fon_adi": "YAPI KREDİ PORTFÖY ÇOKLU VARLIK DEĞİŞKEN FON",
       "risk_degeri": "",
       "portfoy": {
         "tarih": "2026-09-11",
         "dagilim": {}
       }
     },
-    "AED": {
-      "fon_adi": "ATA PORTFÖY BİRİNCİ DEĞİŞKEN FON",
+    "GPU": {
+      "fon_adi": "GARANTİ PORTFÖY ÜÇÜNCÜ DEĞİŞKEN FON",
       "risk_degeri": "",
       "portfoy": {
         "tarih": "2026-09-11",
         "dagilim": {}
       }
     },
-    "YZT": {
-      "fon_adi": "AK PORTFÖY YAPAY ZEKA TEKNOLOJİLERİ ŞİRKETLERİ DEĞİŞKEN FON",
+    "IBB": {
+      "fon_adi": "İŞ PORTFÖY ATAK DEĞİŞKEN FON",
       "risk_degeri": "",
       "portfoy": {
         "tarih": "2026-09-11",
         "dagilim": {}
       }
     },
-    "BVV": {
-      "fon_adi": "BV PORTFÖY TEKNOLOJİ DEĞİŞKEN FON",
+    "EVM": {
+      "fon_adi": "DENİZ PORTFÖY ENERJİ VE MADENCİLİK SEKTÖRÜ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "MD2": {
+      "fon_adi": "MT PORTFÖY İKİNCİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "PPZ": {
+      "fon_adi": "AZİMUT PORTFÖY PARA PİYASASI (TL) FONU",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "ATJ": {
+      "fon_adi": "AZİMUT PORTFÖY İKİNCİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "GPB": {
+      "fon_adi": "GARANTİ PORTFÖY BİRİNCİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "EML": {
+      "fon_adi": "AK PORTFÖY EMLAK SEKTÖRÜ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "DBP": {
+      "fon_adi": "DENİZ PORTFÖY BİRİNCİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "OPL": {
+      "fon_adi": "OSMANLI PORTFÖY İKİNCİ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "TND": {
+      "fon_adi": "İŞ PORTFÖY TTF TENİSE DESTEK DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "MTX": {
+      "fon_adi": "TEB PORTFÖY ÜÇÜNCÜ DEĞİŞKEN FON",
+      "risk_degeri": "",
+      "portfoy": {
+        "tarih": "2026-09-11",
+        "dagilim": {}
+      }
+    },
+    "YZH": {
+      "fon_adi": "TEB PORTFÖY BIST BANKA ENDEKSİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN)",
       "risk_degeri": "",
       "portfoy": {
         "tarih": "2026-09-11",
@@ -780,472 +1220,32 @@
         "dagilim": {}
       }
     },
-    "BHF": {
-      "fon_adi": "PARDUS PORTFÖY BİRİNCİ DEĞİŞKEN FON",
+    "JET": {
+      "fon_adi": "ATA PORTFÖY HAVACILIK VE SAVUNMA TEKNOLOJİLERİ DEĞİŞKEN FON",
       "risk_degeri": "",
       "portfoy": {
         "tarih": "2026-09-11",
         "dagilim": {}
       }
     },
-    "RUT": {
-      "fon_adi": "BV PORTFÖY ROBOTİK VE UZAY TEKNOLOJİLERİ DEĞİŞKEN FON",
+    "OTM": {
+      "fon_adi": "AZİMUT PORTFÖY OTOMOTİV SEKTÖRÜ DEĞİŞKEN FON",
       "risk_degeri": "",
       "portfoy": {
         "tarih": "2026-09-11",
         "dagilim": {}
       }
     },
-    "FD1": {
-      "fon_adi": "ONE PORTFÖY BİRİNCİ DEĞİŞKEN FON",
+    "GPI": {
+      "fon_adi": "GARANTİ PORTFÖY İKİNCİ DEĞİŞKEN FON",
       "risk_degeri": "",
       "portfoy": {
         "tarih": "2026-09-11",
         "dagilim": {}
       }
     },
-    "YTV": {
-      "fon_adi": "YAPI KREDİ PORTFÖY TARIM DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "HKG": {
-      "fon_adi": "ZİRAAT PORTFÖY HALK'IN ÜRETEN KADINLARI DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "GZL": {
-      "fon_adi": "GARANTİ PORTFÖY TARIM VE GIDA SEKTÖRÜ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "TE4": {
-      "fon_adi": "TEB PORTFÖY BİRİNCİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "PBR": {
-      "fon_adi": "PUSULA PORTFÖY BİRİNCİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "MAD": {
-      "fon_adi": "MEKSA PORTFÖY BİRİNCİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "YLC": {
-      "fon_adi": "ATA PORTFÖY TARIM VE GIDA DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "YSH": {
-      "fon_adi": "YAPI KREDİ PORTFÖY BÜYÜK ÖLÇEKLİ ŞİRKETLER DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "IED": {
-      "fon_adi": "İŞ PORTFÖY AGRESİF DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "DHT": {
-      "fon_adi": "DENİZ PORTFÖY HAVACILIK VE SAVUNMA TEKNOLOJİLERİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "MTX": {
-      "fon_adi": "TEB PORTFÖY ÜÇÜNCÜ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "IBB": {
-      "fon_adi": "İŞ PORTFÖY ATAK DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "GZZ": {
-      "fon_adi": "GARANTİ PORTFÖY FİNANSAL TEKNOLOJİLER DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "IJC": {
-      "fon_adi": "İŞ PORTFÖY YARI İLETKEN TEKNOLOJİLERİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "CPT": {
-      "fon_adi": "ROTA PORTFÖY ÇİP TEKNOLOJİLERİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "NKP": {
-      "fon_adi": "NEO PORTFÖY KAR PAYI ÖDEYEN DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "GBV": {
-      "fon_adi": "GARANTİ PORTFÖY BLOCKCHAİN TEKNOLOJİLERİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "KUB": {
-      "fon_adi": "KARE PORTFÖY DEĞİŞKEN  (DÖVİZ) FONU",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "ADE": {
-      "fon_adi": "AK PORTFÖY MUTLAK GETİRİ HEDEFLİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "IJZ": {
-      "fon_adi": "İŞ PORTFÖY SİBER GÜVENLİK TEKNOLOJİLERİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "HPO": {
-      "fon_adi": "HSBC PORTFÖY ÇOKLU VARLIK BİRİNCİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "PGD": {
-      "fon_adi": "ASTRA PORTFÖY AGRESİF DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "DTM": {
-      "fon_adi": "DENİZ PORTFÖY TEMETTÜ ÖDEYEN ŞİRKETLER DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "HDD": {
-      "fon_adi": "AHLATCI PORTFÖY BİRİNCİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "KIB": {
-      "fon_adi": "TRIVE PORTFÖY ROBOTİK TEKNOLOJİLERİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "MET": {
-      "fon_adi": "GARANTİ PORTFÖY METAVERSE VE YENİ TEKNOLOJİLER DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "MTV": {
-      "fon_adi": "AK PORTFÖY METAVERSE VE DİJİTAL YAŞAM TEKNOLOJİLERİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "FDG": {
-      "fon_adi": "FONMAP PORTFÖY BİRİNCİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "YPC": {
-      "fon_adi": "YAPI KREDİ PORTFÖY SÜRDÜRÜLEBİLİRLİK DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "IJA": {
-      "fon_adi": "INVEO PORTFÖY ATAK DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "RD1": {
-      "fon_adi": "ROTA PORTFÖY BİRİNCİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "OPF": {
-      "fon_adi": "OSMANLI PORTFÖY AGRESİF DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "DBP": {
-      "fon_adi": "DENİZ PORTFÖY BİRİNCİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "HOA": {
-      "fon_adi": "HSBC PORTFÖY TEKNOLOJİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "IAE": {
-      "fon_adi": "İSTANBUL PORTFÖY AGRESİF DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "TAR": {
-      "fon_adi": "AK PORTFÖY TARIM VE GIDA TEKNOLOJİLERİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "ACD": {
-      "fon_adi": "İSTANBUL PORTFÖY İKİNCİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "OPB": {
-      "fon_adi": "OSMANLI PORTFÖY BİRİNCİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "NZH": {
-      "fon_adi": "NEO PORTFÖY İKİNCİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "TGR": {
-      "fon_adi": "AK PORTFÖY TURİZM VE SEYAHAT SEKTÖRÜ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "ECA": {
-      "fon_adi": "GLOBAL MD PORTFÖY BİRİNCİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "EGR": {
-      "fon_adi": "EMAA BLUE PORTFÖY AGRESİF DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "EIB": {
-      "fon_adi": "ASTRA PORTFÖY DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "IVY": {
-      "fon_adi": "İSTANBUL PORTFÖY BLOCKCHAIN TEKNOLOJİLERİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "RIK": {
-      "fon_adi": "RE-PIE PORTFÖY İKİNCİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "ICC": {
-      "fon_adi": "TEB PORTFÖY BEŞİNCİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "TPV": {
-      "fon_adi": "AURA PORTFÖY İKİNCİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "SGT": {
-      "fon_adi": "GARANTİ PORTFÖY SİBER GÜVENLİK TEKNOLOJİLERİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "RPM": {
-      "fon_adi": "ROTA PORTFÖY İLAÇ VE MEDİKAL TEKNOLOJİLERİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "KIA": {
-      "fon_adi": "TRIVE PORTFÖY MUTLAK GETİRİ HEDEFLİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "NTI": {
-      "fon_adi": "NEO PORTFÖY TEKNOLOJİ VE İNOVASYON DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "EDU": {
-      "fon_adi": "İŞ PORTFÖY TEV EĞİTİME DESTEK DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "DFC": {
-      "fon_adi": "DENİZ PORTFÖY TARIM VE GIDA DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "SSK": {
-      "fon_adi": "DENİZ PORTFÖY SAĞLIK SEKTÖRÜ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "TI7": {
-      "fon_adi": "İŞ PORTFÖY DENGELİ DEĞİŞKEN FON",
-      "risk_degeri": "",
-      "portfoy": {
-        "tarih": "2026-09-11",
-        "dagilim": {}
-      }
-    },
-    "IEV": {
-      "fon_adi": "İŞ PORTFÖY HAVACILIK VE SAVUNMA TEKNOLOJİLERİ DEĞİŞKEN FON",
+    "KOD": {
+      "fon_adi": "YAPI KREDİ PORTFÖY KÜÇÜK ÖLÇEKLİ ŞİRKETLER DEĞİŞKEN FON",
       "risk_degeri": "",
       "portfoy": {
         "tarih": "2026-09-11",
